@@ -348,6 +348,7 @@ prime 首要的，使有所准备，使完成准备工作
 priori 先验的，先前的，在先的 (a priori 先验假设，先验概率，先验判断)
 probabilistic 基于概率的，或然性的
 procedure 指令集，流程，步骤
+profiler 性能检测工具
 property 成分，比例
 propose 提议，打算，计划
 protocol 礼仪，外交礼节，协议，实验计划，医疗方案
