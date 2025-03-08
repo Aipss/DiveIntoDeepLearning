@@ -6,10 +6,12 @@ abound 大量存在，充满，富于
 absent 缺少
 access 读取，访问
 actuator 执行器，激励源
+adapt 使适应，修改，改编
 adapt on the fly 动态适应，即时适应
 additive 加法的，累积的，附加的，加法，添加剂
 adequate 足够的，恰当的，合格的
 administer 给予，管理，执行
+adversarial 对立的，对抗的，敌对的
 aeronautics 航空航天工程
 aggregate 总数，集合体，总的，聚生的
 ailment 疾病
@@ -19,6 +21,7 @@ algorithm 算法
 allocate 分配，划分
 alongside 与此同时
 alternative 替代物，可替代的，备选的，另类的，互不相容的
+ambient 周围的，氛围的，环境
 anachronistic 不合时宜的，过时的，时代错误的
 analogous 相似的，类似的
 analytic 解析的，分析的，分析学
@@ -27,6 +30,7 @@ anticipate 预料，预期
 API Application Programming Interface 程序编程入口
 apparel 服装，穿衣服，装饰
 aptly 适当地，恰当地
+arbitrage 套利(低买高卖)
 arbitrary 任意的，相对的，不确定的
 arguably 可以说，按理说，无疑是，可能是
 arithmetic 数字，算术
@@ -40,6 +44,8 @@ axon 轴突
 B
 bake into 成为固有成分，融入，包含
 ballpark 变动范围，大约的，大致正确的，粗略估计
+bandit (用于描述 面对有不同收益概率的多个选择的决策问题)
+barring 表排除、例外，表条件，(bar)阻止
 batch 一批，一组，分批处理
 bedrock 基岩，根底，基本原理
 bells and whistles (铃铛和口哨)华而不实的东西，不必要的附加功能
@@ -73,12 +79,14 @@ conceivably 可想像的，可能的
 conciseness 简洁，简明
 configure 配置，设定
 configuration 配置，布局，结构
+confusion matrix 混淆矩阵(啊？)
 coincide 同时发生，相符，一致，(空间、时间方面)恰好重合
 conservative 稳健的，避免过激的
 constrain 强迫，限制，约束
 contemplate 深思，细想，凝视，注视
 convention 约定， 传统
 converge 趋向，趋于
+convex 凸状，凸面体，弯曲的，凸多边形的
 convolutional 卷积的
 corrupt 破坏
 covariate 协变量
@@ -109,7 +117,9 @@ diligent 勤奋的，细致的
 dimension 维度
 dimensionality 维度，维数，立体感
 discard 丢弃，抛弃
+disentangling 分离，解开，拜托，消除，解开的，松开的，清晰地，分别地
 disposal 处理，清除，丢弃
+dissemination 传播，散布，宣传
 distinct 明显的，明确的
 dividend 被除数
 draw 吸引，拉，画，移动，平局，抽签
@@ -121,6 +131,7 @@ empirically 以经验为主的，实证地
 endow 赋予，使具有
 engulf 吞没，使全神贯注
 ensemble 整体，集合，使融合
+entangle 缠绕，纠缠，陷入
 entropy 熵  (cross-entropy 交叉熵)
 epoch 迭代次数，时代
 equivalently 相等地，相当地
@@ -134,6 +145,7 @@ explicitly 显式地
 exploit 利用，开发，提取
 exponential 指数的，幂的，指数增长的
 ex post facto 事后的，追溯既往的
+extent 程度，限度，范围，规模
 extract 提取，设法获取
 
 F
@@ -166,6 +178,7 @@ grayscale 灰度
 grossly 非常，极其，粗野的，粗俗的
 
 H
+halve 把…分成两半，把…减半
 hammer 撞针，沉重打击
 hardware 硬件
 heuristic 启发式的，探索式的
@@ -186,6 +199,7 @@ incompatible 目标冲突，不兼容
 incorporate 包含，使并入
 inductive 归纳的，归纳法的
 inference 推论，推断
+inferior 下级的，低等的
 infinitesimally 极小的，无限小的
 inherit 继承，遗传
 inhibition 抑制，禁止，拘谨
@@ -193,6 +207,7 @@ innocuous 平淡无奇的，索然无味的，无害的
 insidiously 阴险地，隐伏性地
 insofar 在…的范围内，就…而言
 inspect 检查，检阅
+instantaneously 瞬间的，立刻的，突然的
 instantiate 实例化，举例说明，代表，体现
 integral 积分，整体，内置的
 interface 界面，接口
@@ -200,6 +215,7 @@ intersperse 散布，点缀
 intrinsically 本质上，内在地，固有地
 intuitive 直观的，凭直觉的
 invent 发明，捏造，虚构
+invest in 投入(时间、精力、金钱等)
 invertible 可逆的
 invocation 调用，请求
 invoke 调用，唤起，引用，求助于，引起
@@ -216,6 +232,7 @@ knack 技能，本领，技巧
 L
 lasso regression (Least Absolute Shringkage(减小) and Selection Operator regression)
 layer 层
+lenses 镜头，透镜，隐形眼镜，晶状体
 leverage 充分利用，杠杆作用，力量，影响力
 library 库，包
 likewise 同样地，也，此外
@@ -251,6 +268,7 @@ mitigate 减轻，缓和，缓解
 modularity 模块化，模块性
 module 模块，组件
 monomial 单项式
+monotonic 单调的
 motivation 动力，积极性
 multivariate 多变量的，多元的
 murky 复杂，模糊
@@ -264,7 +282,7 @@ neuron 神经元
 nevertheless 然而，不过，仍然
 nonetheless 然而，尽管如此
 nonstationary 非静止的，变动的，不稳定的
-nontrivial 非平凡的(解)
+nontrivial 非平凡的(解)，重要的，有意义的
 norm 范数
 normal distribution 正态分布
 notion 观念，看法，突然的念头，奇想，意图
@@ -289,6 +307,7 @@ outlier 异常值，异常的，离群的
 outnumber 超过，比…多
 overlap 覆盖，重叠
 overload 重载，过载，超载
+overlook 忽视，宽容，不计较
 
 P
 palette 调色板，选项版
@@ -297,8 +316,10 @@ parentage 出身，亲子关系
 partition 分区，划分，分隔
 passive 被动的，消极的，冷漠的，顺从的
 pathological 不合理的，无法控制的，非理性的，病理学的
+patrol 巡逻，巡查，巡逻兵
 penalize 处罚，使处于不利地位
 penalty 惩罚，不利，处罚
+perceive 察觉，感知，理解，领悟
 permutation 排列
 perturb 扰乱，干扰
 pesky 讨厌的，麻烦的
@@ -306,6 +327,7 @@ pessimistic 悲观的，悲观主义的
 phase 阶段，相位，方面
 philosopher 哲学家
 philosophical 哲学的，哲理的，达观的
+PID (proportional-integral-derivative) 比例积分微分(即为误差叉乘比例系数，或根据误差的累计值、变化率，运算得到控制器的输出)
 pipline 流程，过程
 pivot 支点，以…为中心，旋转
 plug 插入
@@ -328,6 +350,7 @@ probabilistic 基于概率的，或然性的
 procedure 指令集，流程，步骤
 property 成分，比例
 propose 提议，打算，计划
+protocol 礼仪，外交礼节，协议，实验计划，医疗方案
 provided 证明是，意味着
 pseudorandom 伪随机数
 psychology 动物心理学
@@ -335,6 +358,7 @@ pullover 套头毛衣，套衫
 
 Q
 quadratic 二次方程，二次函数，二次项
+quality 品质，特征，优质(的)
 quaternion 四元数
 query 查询，询问
 questionable 可疑的，有问题的，不确定的
@@ -345,6 +369,7 @@ reason about 对…进行推理，思考…的原因
 register 登记，记录
 regression 回归
 regularization 规则化，合法化
+reinforcement 强化，增援，支援
 render 致使，造成，给予(帮助)，表现，描绘，演奏
 repay 偿还，报答，报复
 residual 残余的，残渣
@@ -361,13 +386,17 @@ sanctity 神圣性，不可侵犯性
 sandal 凉鞋，檀香木
 scarce 数量不足的，稀有的，罕见的
 scheme 系统，体制 (in the scheme of things 从全局来看，在整个事物的格局中)
+scope 范围，界限，审视，审查
 scratch (from scratch) 指从零实现
 seminal 创新的，影响深远的
 SGD stochastic(随机的) gradient(梯度) descent(减少)
 sheer 纯粹的，垂直的，陡峭的
+ship sth. as 将sth.作为(某种形势、类别等)发货、运送
 shuffle 打乱，混合
 Simulateur Neuristique [法]神经模拟器
 simultaneously 同时地，联立地，急切地
+sleight 诡计，花招，灵巧，技巧 sleight of hand 巧妙的手法，欺骗性手段 (racial sleight of hand 比喻通过巧妙的言辞、政策或行为来掩盖或歪曲种族不平等的现象)
+slew 大量，许多，突然转向，使急转
 slice 薄片，分割
 snippet 片段
 sober 严肃的，冷静的，清醒的，素净的，使冷静
@@ -400,6 +429,7 @@ synthetic 人造的，合成的，综合性的
 
 T
 tap into 利用，开发，进入
+taxonomy 分类学，进行分类、命名、描述的科学
 tensor 张量
 terminal 末端，终端，终点
 terminology 术语，专门用语
@@ -437,6 +467,7 @@ violate 违背，违反，侵害
 vis-à-vis [法]相对、面对，与…相比，关于，面对面的人或物
 
 W
+welfare 幸福，福祉，社会福利
 whet 刺激，磨快，使锋利
 wire 导线，金属丝，固定，打电报，连线
 workload 工作量，工作状态，使用模式
