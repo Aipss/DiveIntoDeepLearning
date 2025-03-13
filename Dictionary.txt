@@ -18,6 +18,7 @@ ailment 疾病
 alas (感叹词，表悲伤、遗憾、惋惜)
 algebra 代数学
 algorithm 算法
+align 使对齐，使一致，使合作，调整(配件、照片的位置)
 allocate 分配，划分
 alongside 与此同时
 alternative 替代物，可替代的，备选的，另类的，互不相容的
