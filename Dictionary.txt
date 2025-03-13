@@ -339,6 +339,7 @@ post hoc [拉丁]在此之后，事后归因(post hoc fallacy)
 postprocessing 后处理
 practitioner 实践者，实操者
 precisely 精确的，恰恰
+precision 精确性，精密度，精确的
 predate 早于…存在(发生)，把日期填早，捕食
 preliminary 初步的，开始的，预备的
 preserve 保持，维持
