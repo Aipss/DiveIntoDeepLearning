@@ -1,0 +1,7 @@
+Solution of Normal Equation:
+T = e^[0.00043123]*d^[1.4995288]
+
+Test Result of Minibatch SGD:
+Planet  d       T       
+Ceres    2.770   4.657  
+Pluto    39.500  236.649
