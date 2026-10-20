@@ -66,7 +66,7 @@
 | Section | Reading | Exercises | Reading Records| 
 |:--|:--:|:--:|:--|
 |1.1 Four Ways to Represent a Function| :o: | :o: | 2026.10.16 |
-|0.2 Mathematical Models: A Catalog of Essential Functions| :o: | :o: | 2026.10.19 |
+|1.2 Mathematical Models: A Catalog of Essential Functions| :o: | :o: | 2026.10.19 |
 |1.3 New Functions from Old Functions| :o: | :o: | 2026.10.20 |
 |1.4 The Tangent and Velocity Problems|  |  |  |
 |1.5 The Limit of a Function|  |  |  |
