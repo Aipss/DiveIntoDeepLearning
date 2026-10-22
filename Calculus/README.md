@@ -49,7 +49,7 @@
 
 ## Reading Progress
 
-![progress badge](https://md-badge.ad2ien.dev/progress/value/0)
+![progress badge](https://md-badge.ad2ien.dev/progress/value/4.79)
 
 > Unfortunately, records before 2026-9 is not trackable.
 
@@ -63,14 +63,14 @@
 
 ### Chapter 1: Functions and Limits
 
-| Section | Reading | Exercises | Reading Records| 
+| Section | Reading | Exercises | Reading Records | 
 |:--|:--:|:--:|:--|
 |1.1 Four Ways to Represent a Function| :o: | :o: | 2026.10.16 |
 |1.2 Mathematical Models: A Catalog of Essential Functions| :o: | :o: | 2026.10.19 |
 |1.3 New Functions from Old Functions| :o: | :o: | 2026.10.20 |
 |1.4 The Tangent and Velocity Problems| :o: | :o: | 2026.10.21 |
-|1.5 The Limit of a Function|  |  |  |
-|1.6 Calculating Limits Using the Limit Laws|  |  |  |
+|1.5 The Limit of a Function| :o: | :o: | 2026.10.22 |
+|1.6 Calculating Limits Using the Limit Laws| :o: |  | 2026.10.22 |
 |1.7 The Precise Definition of a Limit|  |  |  |
 |1.8 Continuity|  |  |  |
 |Review|  |  |  |
