@@ -15,8 +15,8 @@
 ### Current -- Task 1 
 - Start Date: 2026-10-03 night
 - Finish Date: 
-    - [ ] Reading: 1.6 Calculating Limits Using Limit Laws
-    - [ ] Exercises: 1.5 The Limit of a Function
+    - [ ] Reading: 1.7 The Precise Definition of a Limit
+    - [ ] Exercises: 1.5 Calculating Limits Using Limit Laws
 - Task Details
     > *10/4, Sun, 12:41 from Shaun*   
 
@@ -70,7 +70,7 @@
 |1.3 New Functions from Old Functions| :o: | :o: | 2026.10.20 |
 |1.4 The Tangent and Velocity Problems| :o: | :o: | 2026.10.21 |
 |1.5 The Limit of a Function| :o: | :o: | 2026.10.22 |
-|1.6 Calculating Limits Using the Limit Laws| :o: |  | 2026.10.22 |
+|1.6 Calculating Limits Using the Limit Laws| :o: | :o: | 2026.10.22 |
 |1.7 The Precise Definition of a Limit|  |  |  |
 |1.8 Continuity|  |  |  |
 |Review|  |  |  |
