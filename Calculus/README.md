@@ -15,8 +15,8 @@
 ### Current -- Task 1 
 - Start Date: 2026-10-03 night
 - Finish Date: 
-    - [ ] Reading: 1.2 Matheematical Models: A Catalog of Essential Functions
-    - [ ] Exercises: 1.1 Four Ways to Represent a Function 
+    - [ ] Reading: 1.6 Calculating Limits Using Limit Laws
+    - [ ] Exercises: 1.5 The Limit of a Function
 - Task Details
     > *10/4, Sun, 12:41 from Shaun*   
 
