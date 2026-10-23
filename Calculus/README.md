@@ -15,8 +15,8 @@
 ### Current -- Task 1 
 - Start Date: 2026-10-03 night
 - Finish Date: 
-    - [ ] Reading: 1.7 The Precise Definition of a Limit
-    - [ ] Exercises: 1.5 Calculating Limits Using Limit Laws
+    - [ ] Reading: 1.8 Continuity
+    - [ ] Exercises: 1.7 The Precise Definition of a Limit
 - Task Details
     > *10/4, Sun, 12:41 from Shaun*   
 
@@ -48,8 +48,8 @@
 ### History Tasks
 
 ## Reading Progress
-
-![progress badge](https://md-badge.ad2ien.dev/progress/value/4.79)
+<!-- The total page is set to 1460 -->
+![progress badge](https://md-badge.ad2ien.dev/progress/value/5.62)
 
 > Unfortunately, records before 2026-9 is not trackable.
 
@@ -71,7 +71,7 @@
 |1.4 The Tangent and Velocity Problems| :o: | :o: | 2026.10.21 |
 |1.5 The Limit of a Function| :o: | :o: | 2026.10.22 |
 |1.6 Calculating Limits Using the Limit Laws| :o: | :o: | 2026.10.22 |
-|1.7 The Precise Definition of a Limit|  |  |  |
+|1.7 The Precise Definition of a Limit| :o: | :o: | 2026.10.23 |
 |1.8 Continuity|  |  |  |
 |Review|  |  |  |
 |Principles of Problem Solving|  |  |  |
