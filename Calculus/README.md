@@ -12,7 +12,12 @@
 
 
 ## Reading Tasks
-### Current -- Task 1 
+### Current
+
+### History Tasks
+
+#### Task 1 
+
 - Start Date: 2026-10-03 night
 - Finish Date: 2026-10-31 night
     - [x] Reading: 2026.10.28
@@ -45,7 +50,6 @@
     > 如发现其它有趣的练习，也可以自行补充。   
     > 教材有奇数题号的答案。
 
-### History Tasks
 
 ## Reading Progress
 <!-- The total page is set to 1460 -->
@@ -53,13 +57,20 @@
 
 > Unfortunately, records before 2026-9 is not trackable.
 
-### Front Matter
-
-| Section | Reading | Reading Records| 
-|:--|:--:|:--|
-| Preface | :o: | 2026.10.15 |
-| To the Student | :o: | 2026.10.16 |
-| A Preview of Calculus | :o: | 2026.10.16 |
+### Chapter 2: Derivatives
+| Section | Reading | Exercises | Reading Records| 
+|:--|:--:|:--:|:--|
+|2.1 Derivatives and Rates of Change| |  |  |
+|2.2 The Derivative as a Function| |  |  |
+|2.3 Differentiation Formulas| |  |  |
+|2.4 Derivatives of Trigonometric Functions| |  |  |
+|2.5 The Chain Rule| |  |  |
+|2.6 Implicit Differentiation| |  |  |
+|2.7 Rates of Change in the Natural and Social Science| |  |  |
+|2.8 Related Rates| |  |  |
+|2.9 Linear Approximations and Differentials| |  |  |
+|2:Review| |  |  |
+|Problems Plus| |  |  |
 
 ### Chapter 1: Functions and Limits
 
@@ -73,11 +84,13 @@
 |1.6 Calculating Limits Using the Limit Laws| :o: | :o: | 2026.10.22 |
 |1.7 The Precise Definition of a Limit| :o: | :o: | 2026.10.23 |
 |1.8 Continuity| :o: | :o: | 2026.10.28 |
-|Review| :o: |  | 2026.10.29 |
+|1:Review| :o: |  | 2026.10.29 |
 |Principles of Problem Solving| :o: |  | 2026.10.29 |
 
+### Front Matter
 
-### Chapter 2: Derivatives
-| Section | Reading | Exercises | Reading Records| 
-|:--|:--:|:--:|:--|
-|| |  |  |
+| Section | Reading | Reading Records| 
+|:--|:--:|:--|
+| Preface | :o: | 2026.10.15 |
+| To the Student | :o: | 2026.10.16 |
+| A Preview of Calculus | :o: | 2026.10.16 |
