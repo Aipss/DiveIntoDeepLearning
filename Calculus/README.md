@@ -14,9 +14,9 @@
 ## Reading Tasks
 ### Current -- Task 1 
 - Start Date: 2026-10-03 night
-- Finish Date: 
-    - [ ] Reading: 1.8 Continuity
-    - [ ] Exercises: 1.7 The Precise Definition of a Limit
+- Finish Date: 2026-10-31 night
+    - [x] Reading: 2026.10.28
+    - [x] Exercises: 2026.10.31
 - Task Details
     > *10/4, Sun, 12:41 from Shaun*   
 
@@ -72,9 +72,9 @@
 |1.5 The Limit of a Function| :o: | :o: | 2026.10.22 |
 |1.6 Calculating Limits Using the Limit Laws| :o: | :o: | 2026.10.22 |
 |1.7 The Precise Definition of a Limit| :o: | :o: | 2026.10.23 |
-|1.8 Continuity|  |  |  |
-|Review|  |  |  |
-|Principles of Problem Solving|  |  |  |
+|1.8 Continuity| :o: | :o: | 2026.10.28 |
+|Review| :o: |  | 2026.10.29 |
+|Principles of Problem Solving| :o: |  | 2026.10.29 |
 
 
 ### Chapter 2: Derivatives
