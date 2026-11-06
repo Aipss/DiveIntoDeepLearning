@@ -1,7 +1,8 @@
 .ipynb_checkpoints/
 __pycache__/
 
-tasks/
+tasks/*
+!tasks/*.md
 
 *.pdf
 *.png
