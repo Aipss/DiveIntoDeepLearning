@@ -3,7 +3,7 @@ __pycache__/
 
 tasks/*
 !tasks/*.md
+!tasks/*.png
 
 *.pdf
-*.png
 *.jpg

@@ -49,7 +49,7 @@
 ### Reading
 
 <!-- The total page is set to 1460 -->
-![progress badge](https://md-badge.ad2ien.dev/progress/value/5.62)
+![progress badge](https://md-badge.ad2ien.dev/progress/value/8.91)
 
 #### Chapter 2: Derivatives
 | Section | Reading | Exercises | Reading Records| 
@@ -63,7 +63,7 @@
 |2.7 Rates of Change in the Natural and Social Science| |  |  |
 |2.8 Related Rates| |  |  |
 |2.9 Linear Approximations and Differentials| |  |  |
-|2:Review| |  |  |
+|2: Review| |  |  |
 |Problems Plus| |  |  |
 
 ## History
@@ -129,7 +129,7 @@
 |1.6 Calculating Limits Using the Limit Laws| :o: | :o: | 2026.10.22 |
 |1.7 The Precise Definition of a Limit| :o: | :o: | 2026.10.23 |
 |1.8 Continuity| :o: | :o: | 2026.10.28 |
-|1:Review| :o: | :o: | 2026.10.29 |
+|1: Review| :o: | :o: | 2026.10.29 |
 |Principles of Problem Solving| :o: |  | 2026.10.29 |
 
 #### Front Matter
