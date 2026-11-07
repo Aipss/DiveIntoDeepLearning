@@ -27,8 +27,8 @@
 #### Task 2: [Chapter 2 Derivatives](./Chapter2_Derivatives.ipynb)
 - Start Date: 2026-11-1 Morning
 - Finish Date: 
-    - [ ] Reading:
-    - [ ] Exercises:
+    - [ ] Reading: 2.2 The Derivative as a Function
+    - [ ] Exercises: 2.2 The Derivative as a Function
 - Task Details
     > 非常高兴看到你完成了第一章的练习，我们可以下周约个时间听你讲讲对第一章的理解。   
     > 阅读 Chapter 2 并完成以下练习。   
@@ -54,8 +54,8 @@
 #### Chapter 2: Derivatives
 | Section | Reading | Exercises | Reading Records| 
 |:--|:--:|:--:|:--|
-|2.1 Derivatives and Rates of Change| |  |  |
-|2.2 The Derivative as a Function| |  |  |
+|2.1 Derivatives and Rates of Change| :o: | :o: | 2026.11.5 |
+|2.2 The Derivative as a Function| :o: | :o: | 2026.11.7 |
 |2.3 Differentiation Formulas| |  |  |
 |2.4 Derivatives of Trigonometric Functions| |  |  |
 |2.5 The Chain Rule| |  |  |
