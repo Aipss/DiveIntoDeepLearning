@@ -49,17 +49,17 @@
 ### Reading
 
 <!-- The total page is set to 1460 -->
-![progress badge](https://md-badge.ad2ien.dev/progress/value/8.91)
+![progress badge](https://md-badge.ad2ien.dev/progress/value/11.58)
 
 #### Chapter 2: Derivatives
 | Section | Reading | Exercises | Reading Records| 
 |:--|:--:|:--:|:--|
 |2.1 Derivatives and Rates of Change| :o: | :o: | 2026.11.5 |
 |2.2 The Derivative as a Function| :o: | :o: | 2026.11.7 |
-|2.3 Differentiation Formulas| |  |  |
-|2.4 Derivatives of Trigonometric Functions| |  |  |
-|2.5 The Chain Rule| |  |  |
-|2.6 Implicit Differentiation| |  |  |
+|2.3 Differentiation Formulas| :o: | :o: | 2026.11.9 |
+|2.4 Derivatives of Trigonometric Functions| :o: |  | 2026.11.11 |
+|2.5 The Chain Rule| :o: |  | 2026.11.13 |
+|2.6 Implicit Differentiation| :o: |  | 2026.11.14 |
 |2.7 Rates of Change in the Natural and Social Science| |  |  |
 |2.8 Related Rates| |  |  |
 |2.9 Linear Approximations and Differentials| |  |  |
